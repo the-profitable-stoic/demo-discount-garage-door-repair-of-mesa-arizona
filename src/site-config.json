@@ -1,0 +1,596 @@
+{
+  "business": {
+    "name": "Discount Garage Door Repair of Mesa Arizona",
+    "phone": "+16029227226",
+    "category": "garage door repair",
+    "city": "Mesa",
+    "state": "AZ"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Mesa's Garage Door Experts",
+      "heroSubline": "Reliable repairs and quality installations. Serving Mesa and the entire East Valley with pride.",
+      "aboutTitle": "Decades of Dedication to Mesa Garage Doors",
+      "aboutText": [
+        "Discount Garage Door Repair of Mesa Arizona started with a simple mission: to provide honest, reliable garage door service to our neighbors. We're a family-owned business, born and raised right here in the Valley.",
+        "We believe in doing the job right the first time. Our technicians are trained to handle any garage door issue, from broken springs to malfunctioning openers. We use only quality parts and stand behind our work.",
+        "We're proud to be part of the Mesa community. We support local schools and charities, and we're committed to providing affordable garage door solutions to our fellow residents."
+      ],
+      "valueProps": [
+        {
+          "title": "Fast Response Times",
+          "description": "We understand that a broken garage door is an emergency. We offer prompt service to get your door back in working order quickly."
+        },
+        {
+          "title": "Experienced Technicians",
+          "description": "Our team has seen it all. We have the knowledge and expertise to diagnose and repair any garage door problem."
+        },
+        {
+          "title": "Competitive Pricing",
+          "description": "We offer fair and transparent pricing. No hidden fees, no surprises."
+        },
+        {
+          "title": "Quality Parts",
+          "description": "We use only durable, reliable parts from trusted brands to ensure long-lasting repairs."
+        }
+      ],
+      "ctaHeadline": "Need Garage Door Help?",
+      "ctaSubline": "Call us today for fast, reliable service and a free estimate."
+    },
+    "services": [
+      {
+        "slug": "garage-door-spring-repair",
+        "name": "Garage Door Spring Repair",
+        "shortDescription": "Expert repair and replacement of broken or worn garage door springs.",
+        "description": "Garage door springs are under immense tension and can be dangerous to handle without the proper tools and expertise. At Discount Garage Door Repair of Mesa Arizona, we specialize in safely and efficiently repairing or replacing broken garage door springs. Whether you have torsion springs or extension springs, our technicians are trained to handle the job with precision. We only use high-quality springs designed to withstand the harsh Arizona climate, ensuring long-lasting performance. \n\nOur spring repair service includes a thorough inspection of your entire garage door system to identify any potential problems. We'll lubricate moving parts, check cables and rollers, and make sure your door is balanced correctly. A properly functioning garage door spring system is essential for the safe and reliable operation of your door. Don't risk injury or further damage by attempting to repair springs yourself. \n\n We offer same-day spring repair service in Mesa and surrounding areas. Call us today for a free estimate.",
+        "process": [
+          "Inspect the spring system and assess the damage.",
+          "Safely release tension from the broken spring.",
+          "Remove the old spring and install a new, high-quality replacement.",
+          "Balance the door and test its operation.",
+          "Lubricate moving parts and ensure smooth operation."
+        ],
+        "benefits": [
+          "Improved safety and reliability of your garage door.",
+          "Extended lifespan of your garage door system.",
+          "Smooth and quiet operation.",
+          "Prevention of further damage to your door and opener."
+        ],
+        "faq": [
+          {
+            "question": "How long do garage door springs typically last?",
+            "answer": "Garage door springs typically last between 7 and 12 years, depending on usage and environmental factors. Extreme heat and frequent use can shorten their lifespan."
+          },
+          {
+            "question": "What are the signs of a broken garage door spring?",
+            "answer": "Signs of a broken spring include a loud bang, a garage door that is difficult to open or close, or a door that is hanging unevenly."
+          },
+          {
+            "question": "Can I replace garage door springs myself?",
+            "answer": "It is not recommended to replace garage door springs yourself due to the high tension involved, which can cause serious injury. Always hire a trained professional."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-opener-repair",
+        "name": "Garage Door Opener Repair",
+        "shortDescription": "Reliable repair and replacement of garage door openers of all makes and models.",
+        "description": "Is your garage door opener making strange noises, failing to open or close properly, or simply not working at all? Discount Garage Door Repair of Mesa Arizona provides expert garage door opener repair services. We service all major brands, including LiftMaster, Chamberlain, Genie, and more. Our technicians are skilled in diagnosing and repairing a wide range of opener problems, from faulty sensors to broken gears. \n\n We understand the inconvenience of a malfunctioning garage door opener, especially during the scorching Mesa summers. That's why we offer fast, reliable service to get your opener back in working order quickly. If your opener is beyond repair, we can recommend and install a new, energy-efficient model that meets your needs. We'll also ensure that your new opener is properly programmed and integrated with your existing garage door system. \n\n Protect your home and family with a properly functioning garage door opener. Call us today for a free estimate.",
+        "process": [
+          "Diagnose the cause of the opener malfunction.",
+          "Repair or replace faulty components, such as sensors, gears, or circuit boards.",
+          "Program the opener and test its operation.",
+          "Adjust the opener's safety features to ensure proper functionality.",
+          "Provide maintenance tips to extend the life of your opener."
+        ],
+        "benefits": [
+          "Convenient and reliable operation of your garage door.",
+          "Improved safety and security of your home.",
+          "Extended lifespan of your garage door opener.",
+          "Reduced risk of accidents and injuries."
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my garage door opener needs to be repaired or replaced?",
+            "answer": "If your opener is making loud noises, struggling to lift the door, or malfunctioning frequently, it may be time for a repair or replacement. We can provide an honest assessment and recommend the best option."
+          },
+          {
+            "question": "What are the different types of garage door openers?",
+            "answer": "The main types of garage door openers are chain drive, belt drive, and screw drive. Belt drive openers are the quietest, while chain drive openers are the most affordable."
+          },
+          {
+            "question": "How often should I have my garage door opener serviced?",
+            "answer": "It's recommended to have your garage door opener serviced annually to ensure proper operation and prevent potential problems."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-cable-repair",
+        "name": "Garage Door Cable Repair",
+        "shortDescription": "Expert repair and replacement of damaged or frayed garage door cables.",
+        "description": "Garage door cables play a crucial role in the safe and efficient operation of your garage door. These cables work in conjunction with the springs to lift and lower the door. If a cable breaks or becomes frayed, it can cause the door to become unbalanced and potentially dangerous. Discount Garage Door Repair of Mesa Arizona offers professional garage door cable repair and replacement services. \n\n Our technicians are trained to safely handle damaged or broken cables. We use only high-quality cables that are designed to withstand the weight and stress of your garage door. We'll also inspect your entire garage door system to identify any potential problems and ensure that your door is operating smoothly and safely. \n\n Don't wait until a broken cable causes a major problem. Call us today for prompt and reliable cable repair service. We serve Mesa and the surrounding areas.",
+        "process": [
+          "Inspect the cables for damage or fraying.",
+          "Safely release tension from the cables.",
+          "Remove the old cables and install new, high-quality replacements.",
+          "Balance the door and test its operation.",
+          "Ensure proper cable tension and alignment."
+        ],
+        "benefits": [
+          "Improved safety and reliability of your garage door.",
+          "Prevention of further damage to your door and opener.",
+          "Smooth and quiet operation.",
+          "Extended lifespan of your garage door system."
+        ],
+        "faq": [
+          {
+            "question": "What causes garage door cables to break?",
+            "answer": "Garage door cables can break due to wear and tear, corrosion, or improper maintenance. Lack of lubrication can also contribute to cable failure."
+          },
+          {
+            "question": "Can I replace garage door cables myself?",
+            "answer": "It is not recommended to replace garage door cables yourself due to the high tension involved, which can cause serious injury. Always hire a trained professional."
+          },
+          {
+            "question": "How often should I inspect my garage door cables?",
+            "answer": "You should inspect your garage door cables at least twice a year for signs of damage or fraying."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-roller-replacement",
+        "name": "Garage Door Roller Replacement",
+        "shortDescription": "Smooth and quiet garage door operation with our professional roller replacement service.",
+        "description": "Worn or damaged garage door rollers can cause your door to operate noisily and inefficiently. They can also put unnecessary strain on your garage door opener. Discount Garage Door Repair of Mesa Arizona offers professional garage door roller replacement services using high-quality rollers that are designed to provide smooth and quiet operation. \n\n We offer a variety of roller options, including nylon rollers and steel rollers, to suit your specific needs and budget. Our technicians will carefully remove the old rollers and install new ones, ensuring proper alignment and lubrication. We'll also inspect your tracks for any damage and make any necessary repairs. \n\n Upgrade your garage door's performance with our roller replacement service. Call us today for a free estimate.",
+        "process": [
+          "Inspect the rollers and tracks for damage or wear.",
+          "Remove the old rollers and install new, high-quality replacements.",
+          "Lubricate the rollers and tracks.",
+          "Test the door's operation to ensure smooth and quiet movement.",
+          "Adjust the tracks as needed."
+        ],
+        "benefits": [
+          "Quieter garage door operation.",
+          "Smoother door movement.",
+          "Reduced strain on your garage door opener.",
+          "Extended lifespan of your garage door system."
+        ],
+        "faq": [
+          {
+            "question": "What are the different types of garage door rollers?",
+            "answer": "The main types of garage door rollers are nylon rollers and steel rollers. Nylon rollers are quieter, while steel rollers are more durable."
+          },
+          {
+            "question": "How often should I replace my garage door rollers?",
+            "answer": "You should replace your garage door rollers every 5-7 years, or sooner if they show signs of wear or damage."
+          },
+          {
+            "question": "Can I replace garage door rollers myself?",
+            "answer": "Replacing garage door rollers can be dangerous if not done properly. It is recommended to hire a professional."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-panel-replacement",
+        "name": "Garage Door Panel Replacement",
+        "shortDescription": "Restore your garage door's appearance and functionality with our panel replacement service.",
+        "description": "Damaged garage door panels can detract from your home's curb appeal and compromise the security of your garage. Discount Garage Door Repair of Mesa Arizona offers professional garage door panel replacement services. We can replace individual panels that are dented, cracked, or otherwise damaged. \n\n We offer a wide variety of panel styles and colors to match your existing garage door. Our technicians will carefully remove the damaged panel and install a new one, ensuring a seamless fit. We'll also inspect your entire garage door system to identify any potential problems. \n\n Don't let a damaged garage door panel ruin your home's appearance. Call us today for a free estimate.",
+        "process": [
+          "Assess the damage to the garage door panels.",
+          "Match the existing panel style and color.",
+          "Remove the damaged panel and install a new replacement.",
+          "Ensure proper alignment and secure attachment.",
+          "Test the door's operation."
+        ],
+        "benefits": [
+          "Improved curb appeal of your home.",
+          "Restored security of your garage.",
+          "Extended lifespan of your garage door.",
+          "Prevention of further damage to your door."
+        ],
+        "faq": [
+          {
+            "question": "Can I replace just one panel on my garage door?",
+            "answer": "Yes, in most cases, you can replace just one panel on your garage door if it is damaged."
+          },
+          {
+            "question": "How do I match the color of my existing garage door panels?",
+            "answer": "We can help you match the color of your existing garage door panels using paint samples or manufacturer specifications."
+          },
+          {
+            "question": "How long does it take to replace a garage door panel?",
+            "answer": "Replacing a garage door panel typically takes 1-2 hours."
+          }
+        ]
+      },
+      {
+        "slug": "new-garage-door-installation",
+        "name": "New Garage Door Installation",
+        "shortDescription": "Upgrade your home with a new, high-quality garage door from Discount Garage Door Repair.",
+        "description": "Looking to upgrade your home with a new garage door? Discount Garage Door Repair of Mesa Arizona offers professional garage door installation services. We carry a wide selection of garage doors from leading manufacturers, including steel doors, wood doors, and insulated doors. We'll help you choose the perfect door to match your home's style and budget. \n\n Our experienced technicians will handle every aspect of the installation process, from removing your old door to installing your new one. We'll also ensure that your new door is properly balanced and that all safety features are functioning correctly. \n\n Increase your home's value and curb appeal with a new garage door from Discount Garage Door Repair. Call us today for a free consultation.",
+        "process": [
+          "Remove the old garage door and dispose of it properly.",
+          "Install the new garage door and opener.",
+          "Connect the opener to the power supply.",
+          "Program the opener and test its operation.",
+          "Adjust the door's safety features to ensure proper functionality."
+        ],
+        "benefits": [
+          "Increased home value.",
+          "Improved curb appeal.",
+          "Enhanced security.",
+          "Energy efficiency.",
+          "Reliable operation."
+        ],
+        "faq": [
+          {
+            "question": "How much does a new garage door cost?",
+            "answer": "The cost of a new garage door depends on the material, style, and features. We offer a variety of options to fit your budget."
+          },
+          {
+            "question": "How long does it take to install a new garage door?",
+            "answer": "Installing a new garage door typically takes 4-6 hours."
+          },
+          {
+            "question": "What are the benefits of an insulated garage door?",
+            "answer": "Insulated garage doors can help reduce energy costs and make your garage more comfortable year-round."
+          }
+        ]
+      },
+      {
+        "slug": "emergency-garage-door-repair",
+        "name": "Emergency Garage Door Repair",
+        "shortDescription": "24/7 emergency garage door repair services in Mesa and surrounding areas.",
+        "description": "A broken garage door can be a major inconvenience and a security risk, especially during the extreme heat of the Arizona summer. Discount Garage Door Repair of Mesa Arizona offers 24/7 emergency garage door repair services to address urgent issues. Whether it's a broken spring, a malfunctioning opener, or a door that's stuck open, we're here to help. \n\n Our technicians are available day and night to provide fast, reliable service. We'll arrive quickly, diagnose the problem, and provide a solution to get your garage door back in working order as soon as possible. We understand the importance of securing your home and family, so we prioritize emergency repair calls. \n\n Don't wait until morning to address a garage door emergency. Call us anytime for prompt and professional service.",
+        "process": [
+          "Respond quickly to your emergency call.",
+          "Diagnose the problem and provide a solution.",
+          "Repair or replace damaged components.",
+          "Ensure the door is operating safely and securely.",
+          "Provide temporary solutions if a permanent fix is not immediately possible."
+        ],
+        "benefits": [
+          "Fast and reliable service.",
+          "Peace of mind knowing your home is secure.",
+          "Prevention of further damage to your garage door.",
+          "Convenient 24/7 availability."
+        ],
+        "faq": [
+          {
+            "question": "What is considered a garage door emergency?",
+            "answer": "A garage door emergency is any situation that poses a safety risk or prevents you from securing your garage, such as a broken spring, a malfunctioning opener, or a door that's stuck open."
+          },
+          {
+            "question": "How quickly can you respond to an emergency call?",
+            "answer": "We strive to respond to emergency calls as quickly as possible, typically within 1-2 hours."
+          },
+          {
+            "question": "Do you charge extra for emergency service?",
+            "answer": "Yes, we do charge a premium for emergency service to cover the cost of after-hours availability."
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Garage Door Spring Replacement",
+        "text": "Our garage door spring snapped on a Saturday morning. I called Discount Garage Door Repair and they were at my house within an hour! The technician, Mike, was professional, efficient, and explained everything clearly. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 4,
+        "service": "Garage Door Opener Repair",
+        "text": "My garage door opener was making a horrible grinding noise. The technician from Discount Garage Door Repair diagnosed the problem as a worn-out gear. He replaced it quickly and now it's running smoothly. Good service!",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "New Garage Door Installation",
+        "text": "We recently had Discount Garage Door Repair install a new garage door. The whole process was seamless, from the initial consultation to the final installation. The installers were professional and courteous, and the new door looks great!",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "David M.",
+        "rating": 5,
+        "service": "Garage Door Cable Repair",
+        "text": "The cable on my garage door snapped unexpectedly. I called Discount Garage Door Repair and they were able to come out the same day. The technician was very knowledgeable and fixed the problem quickly. Great service!",
+        "date": "2024-12-20"
+      },
+      {
+        "name": "Ashley K.",
+        "rating": 4,
+        "service": "Garage Door Roller Replacement",
+        "text": "My garage door was making a lot of noise. Discount Garage Door Repair replaced the rollers, and now it's much quieter. The technician was friendly and efficient.",
+        "date": "2024-11-05"
+      },
+      {
+        "name": "Brian T.",
+        "rating": 5,
+        "service": "Emergency Garage Door Repair",
+        "text": "I had a garage door emergency late at night. Discount Garage Door Repair answered the phone and had a technician at my house within an hour. He fixed the problem quickly and secured my garage. Excellent service!",
+        "date": "2024-10-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Mesa Garage Door Repair - Discount Prices",
+        "description": "Reliable garage door repair in Mesa, AZ. Springs, openers, cables & more. Fast service, affordable rates. Call Discount Garage Door Repair today!"
+      },
+      "about": {
+        "title": "About Us - Mesa Garage Door Repair Experts",
+        "description": "Learn about Discount Garage Door Repair in Mesa, AZ. Family-owned, trusted technicians, serving the East Valley for over a decade."
+      },
+      "services": {
+        "title": "Garage Door Repair Services - Mesa, AZ",
+        "description": "Comprehensive garage door repair services in Mesa, AZ. Spring repair, opener replacement, cable repair, and new installations. Call now!"
+      },
+      "contact": {
+        "title": "Contact Us - Mesa Garage Door Repair",
+        "description": "Contact Discount Garage Door Repair in Mesa, AZ for fast, reliable service. Get a free estimate for your garage door repair needs."
+      },
+      "reviews": {
+        "title": "Customer Reviews - Mesa Garage Door Repair",
+        "description": "Read reviews for Discount Garage Door Repair in Mesa, AZ. See what our satisfied customers are saying about our garage door services."
+      },
+      "service-areas": {
+        "title": "Garage Door Repair Service Areas",
+        "description": "Areas we serve for garage door repair: Mesa, Phoenix, Scottsdale, Chandler, Gilbert, Tempe, AZ. Discount Garage Door Repair - Call today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    },
+    "serviceAreas": [
+      {
+        "city": "Phoenix",
+        "slug": "phoenix-az",
+        "state": "AZ",
+        "content": "Discount Garage Door Repair of Mesa Arizona is proud to offer our expert garage door services to the residents of Phoenix, Arizona. We understand the unique challenges that Phoenix homeowners face, especially with the intense summer heat. Our technicians are experienced in repairing and maintaining garage doors in Phoenix's prevalent 1960s and 70s block construction homes, ensuring they can withstand the extreme temperatures. \n\nFrom broken springs to malfunctioning openers, we provide prompt and reliable service to keep your garage door functioning smoothly. We also offer a wide selection of new garage doors designed to improve energy efficiency and enhance the curb appeal of your Phoenix home. Trust Discount Garage Door Repair to provide top-notch service at an affordable price.",
+        "localContext": "Phoenix is a sprawling metropolis known for its 1960s-70s block construction homes and extreme summer heat, making reliable garage doors essential for comfort and security.",
+        "nearbyAreas": [
+          "Tempe",
+          "Scottsdale",
+          "Glendale"
+        ]
+      },
+      {
+        "city": "Scottsdale",
+        "slug": "scottsdale-az",
+        "state": "AZ",
+        "content": "Discount Garage Door Repair of Mesa Arizona extends its premier garage door services to the beautiful city of Scottsdale, Arizona. We cater to the needs of Scottsdale's luxury Southwestern estates, providing high-end repair and installation services. We understand the importance of maintaining the aesthetic appeal and functionality of your garage door.\n\nOur skilled technicians are equipped to handle a variety of garage door issues, ensuring seamless operation and enhanced security for your property. We offer a wide range of stylish and durable garage doors to complement the unique architecture of Scottsdale homes. We're committed to delivering exceptional service and quality workmanship to every Scottsdale customer.",
+        "localContext": "Scottsdale is characterized by its luxury Southwestern estates and intense summer heat, making garage door aesthetics and functionality paramount.",
+        "nearbyAreas": [
+          "Phoenix",
+          "Paradise Valley",
+          "Tempe"
+        ]
+      },
+      {
+        "city": "Chandler",
+        "slug": "chandler-az",
+        "state": "AZ",
+        "content": "Discount Garage Door Repair of Mesa Arizona is pleased to serve the growing community of Chandler, Arizona. With its many planned developments built in the 1990s and 2000s, Chandler homes require reliable and modern garage door solutions. We offer a comprehensive range of services tailored to meet the specific needs of Chandler residents.\n\nOur experienced technicians are adept at repairing and installing all types of garage doors, ensuring optimal performance and security. We understand the importance of energy efficiency in the Arizona climate, and we offer a variety of insulated garage doors to help you save on energy costs. Count on Discount Garage Door Repair for prompt, professional, and affordable service in Chandler.",
+        "localContext": "Chandler's master planned communities feature many homes built in the 1990s and 2000s, requiring modern and reliable garage door solutions to withstand the extreme heat.",
+        "nearbyAreas": [
+          "Gilbert",
+          "Tempe",
+          "Mesa"
+        ]
+      },
+      {
+        "city": "Gilbert",
+        "slug": "gilbert-az",
+        "state": "AZ",
+        "content": "Discount Garage Door Repair of Mesa Arizona proudly serves the rapidly expanding town of Gilbert, Arizona. Known for its newer construction homes built from the 2000s to 2020s, Gilbert residents require modern and efficient garage door services. We offer a full spectrum of garage door solutions designed to meet the demands of Gilbert's growing community.\n\nOur skilled technicians are proficient in repairing and installing all makes and models of garage doors, ensuring smooth operation and enhanced security for your home. We understand the importance of energy efficiency in the Arizona climate, so we offer a wide selection of insulated garage doors to help you reduce your energy bills. Trust Discount Garage Door Repair for fast, reliable, and affordable service in Gilbert.",
+        "localContext": "Gilbert is known for its new residential construction from the 2000s to 2020s, demanding modern and efficient garage door solutions to combat Arizona's extreme heat.",
+        "nearbyAreas": [
+          "Chandler",
+          "Mesa",
+          "Queen Creek"
+        ]
+      },
+      {
+        "city": "Tempe",
+        "slug": "tempe-az",
+        "state": "AZ",
+        "content": "Discount Garage Door Repair of Mesa Arizona is dedicated to providing exceptional garage door services to the vibrant community of Tempe, Arizona. Home to Arizona State University, Tempe features a mix of older and newer homes, many of which are near the university campus. We understand the unique needs of Tempe homeowners and offer tailored solutions to keep your garage door functioning flawlessly.\n\nOur experienced technicians are skilled at repairing and maintaining all types of garage doors, ensuring the safety and security of your property. We offer prompt and reliable service, as well as a wide selection of new garage doors to enhance the curb appeal of your Tempe home. Count on Discount Garage Door Repair for affordable and professional service in Tempe.",
+        "localContext": "Tempe is a university town with diverse housing near ASU, where reliable garage doors are essential for student and resident safety and convenience amidst the extreme summer heat.",
+        "nearbyAreas": [
+          "Phoenix",
+          "Mesa",
+          "Scottsdale"
+        ]
+      },
+      {
+        "city": "Mesa",
+        "slug": "mesa-az",
+        "state": "AZ",
+        "content": "Discount Garage Door Repair of Mesa Arizona is proud to serve our home city of Mesa, Arizona. We offer a comprehensive range of garage door services to meet the needs of Mesa residents, from repairs and maintenance to new installations. We understand the unique challenges that Mesa homeowners face, especially with the intense summer heat.\n\nOur experienced technicians are skilled at repairing and maintaining all types of garage doors, ensuring optimal performance and security for your home. We also offer a wide selection of new garage doors designed to improve energy efficiency and enhance the curb appeal of your Mesa home. Trust Discount Garage Door Repair to provide top-notch service at an affordable price right here in Mesa.",
+        "localContext": "Mesa is a large city in the East Valley, where reliable garage doors are essential for protecting homes and vehicles from the extreme Arizona weather.",
+        "nearbyAreas": [
+          "Gilbert",
+          "Tempe",
+          "Chandler"
+        ]
+      },
+      {
+        "city": "Apache Junction",
+        "slug": "apache-junction-az",
+        "state": "AZ",
+        "content": "Discount Garage Door Repair of Mesa Arizona extends its services to Apache Junction, Arizona, providing reliable garage door solutions to this unique community. Known for its blend of residential areas and outdoor recreational opportunities, Apache Junction residents need dependable garage doors for security and convenience.\n\nOur skilled technicians are experienced in repairing and installing all types of garage doors, ensuring smooth operation and enhanced protection for your property. We understand the importance of having a functional garage door in the Arizona climate. Discount Garage Door Repair is committed to providing prompt, professional, and affordable service in Apache Junction.",
+        "localContext": "Apache Junction is a city known for its mix of residential areas and outdoor recreation, making reliable garage doors essential for security and convenience.",
+        "nearbyAreas": [
+          "Mesa",
+          "Gold Canyon",
+          "Queen Creek"
+        ]
+      },
+      {
+        "city": "Queen Creek",
+        "slug": "queen-creek-az",
+        "state": "AZ",
+        "content": "Discount Garage Door Repair of Mesa Arizona is pleased to offer its services to the rapidly growing town of Queen Creek, Arizona. With its newer residential developments and family-friendly atmosphere, Queen Creek residents need reliable and modern garage door solutions. We provide a comprehensive range of services tailored to meet the specific needs of Queen Creek homeowners.\n\nOur experienced technicians are adept at repairing and installing all types of garage doors, ensuring optimal performance and security. We understand the importance of energy efficiency in the Arizona climate, and we offer a variety of insulated garage doors to help you save on energy costs. Count on Discount Garage Door Repair for prompt, professional, and affordable service in Queen Creek.",
+        "localContext": "Queen Creek is a rapidly growing town with newer residential developments, making reliable garage doors essential for family safety and home security.",
+        "nearbyAreas": [
+          "Gilbert",
+          "Chandler",
+          "San Tan Valley"
+        ]
+      }
+    ]
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "garage-door-spring-repair": "/images/service-garage-door-spring-repair.webp",
+      "garage-door-opener-repair": "/images/service-garage-door-opener-repair.webp",
+      "garage-door-cable-repair": "/images/service-garage-door-cable-repair.webp",
+      "garage-door-roller-replacement": "/images/service-garage-door-roller-replacement.webp",
+      "garage-door-panel-replacement": "/images/service-garage-door-panel-replacement.webp",
+      "new-garage-door-installation": "/images/service-new-garage-door-installation.webp",
+      "emergency-garage-door-repair": "/images/service-emergency-garage-door-repair.webp"
+    },
+    "servicesResponsive": {
+      "garage-door-spring-repair": {
+        "src": "/images/service-garage-door-spring-repair.webp",
+        "srcset": "/images/service-garage-door-spring-repair-400w.webp 400w, /images/service-garage-door-spring-repair-800w.webp 800w, /images/service-garage-door-spring-repair-1200w.webp 1200w, /images/service-garage-door-spring-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-opener-repair": {
+        "src": "/images/service-garage-door-opener-repair.webp",
+        "srcset": "/images/service-garage-door-opener-repair-400w.webp 400w, /images/service-garage-door-opener-repair-800w.webp 800w, /images/service-garage-door-opener-repair-1200w.webp 1200w, /images/service-garage-door-opener-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-cable-repair": {
+        "src": "/images/service-garage-door-cable-repair.webp",
+        "srcset": "/images/service-garage-door-cable-repair-400w.webp 400w, /images/service-garage-door-cable-repair-800w.webp 800w, /images/service-garage-door-cable-repair-1200w.webp 1200w, /images/service-garage-door-cable-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-roller-replacement": {
+        "src": "/images/service-garage-door-roller-replacement.webp",
+        "srcset": "/images/service-garage-door-roller-replacement-400w.webp 400w, /images/service-garage-door-roller-replacement-800w.webp 800w, /images/service-garage-door-roller-replacement-1200w.webp 1200w, /images/service-garage-door-roller-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-panel-replacement": {
+        "src": "/images/service-garage-door-panel-replacement.webp",
+        "srcset": "/images/service-garage-door-panel-replacement-400w.webp 400w, /images/service-garage-door-panel-replacement-800w.webp 800w, /images/service-garage-door-panel-replacement-1200w.webp 1200w, /images/service-garage-door-panel-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "new-garage-door-installation": {
+        "src": "/images/service-new-garage-door-installation.webp",
+        "srcset": "/images/service-new-garage-door-installation-400w.webp 400w, /images/service-new-garage-door-installation-800w.webp 800w, /images/service-new-garage-door-installation-1200w.webp 1200w, /images/service-new-garage-door-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "emergency-garage-door-repair": {
+        "src": "/images/service-emergency-garage-door-repair.webp",
+        "srcset": "/images/service-emergency-garage-door-repair-400w.webp 400w, /images/service-emergency-garage-door-repair-800w.webp 800w, /images/service-emergency-garage-door-repair-1200w.webp 1200w, /images/service-emergency-garage-door-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

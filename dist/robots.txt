@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-discount-garage-door-repair-of-mesa-arizona.dream-surge.com/sitemap-index.xml
